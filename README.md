@@ -4,7 +4,7 @@ As a foreign person living with roommates, I am experiencing how difficult it ca
 It is well known that relationships and money, are not topics that can be mixed. But studies show that splitting expenses strengthens relationships and establishes equality.
 This project consist in a shared list of transactions that allows balancing expenses, each one enters their expenses, and the balance of each participant is calculated.
 
-#Algorithm
+### Algorithm
 
 Input: money spent(value), number of people who must share the cost(value),
 Process: 
