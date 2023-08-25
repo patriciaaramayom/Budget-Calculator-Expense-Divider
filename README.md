@@ -9,9 +9,9 @@ This project consist in a shared list of transactions that allows balancing expe
 ### Input: money spent(value), number of people who must share the cost(value),
 ### Process: 
 
-  1.Ask the user for the value of money spent.
+  1. Ask the user for the value of money spent.
   
-  2.Ask the user for the number of people who must share the cost.
+  2. Ask the user for the number of people who must share the cost.
   
   3. money spent/number of people who must share the cost.
     
