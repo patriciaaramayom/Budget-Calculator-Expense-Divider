@@ -1,4 +1,4 @@
-def create_new_group():
+def create_new_group(): 
     title=input('Title: ')
     des=input('Description: ')
     cur=input('Currency: ')
