@@ -1,4 +1,4 @@
-# Expense-Splitter
+# Budget Calculator / Expense Divider
 The following project called "Expense Splitter" is designed to make life easier for all people who have to share expenses, whether with family, roommates or friends. They can keep track of expenses, or just balance expenses equally.
 As a foreign person living with roommates, I am experiencing how difficult it can be to balance or split expenses equally and keep track in case someone owes money to another. So I think it's very interesting that you can solve a problem that I'm sure many other people have, including me.
 It is well known that relationships and money, are not topics that can be mixed. But studies show that splitting expenses strengthens relationships and establishes equality.
