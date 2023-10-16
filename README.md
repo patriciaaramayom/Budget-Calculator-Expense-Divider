@@ -3,8 +3,9 @@ The following project called “Budget Calculator / Expense Divider” is design
 
 # Algorithm
 
-### Input: Account balance, value that is going to be added or subtracted.
-### money spent(value), number of people who must share the cost(value)
+### Input: 
+Account balance, value that is going to be added or subtracted.
+money spent(value), number of people who must share the cost(value)
 
 ### Process: 
 Ask the user for the currency
@@ -15,4 +16,5 @@ Ask the user for the number of people who must share the cost.
 money spent/number of people who must share the cost.
 Return the value
 
-### Output: Result
+### Output: 
+Result
